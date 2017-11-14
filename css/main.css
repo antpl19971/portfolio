@@ -137,6 +137,7 @@ header {
     flex: 1 1 auto;
     text-decoration: none;
     max-width: 200px;
+    user-select: none;
 }
 
 .logo img {
